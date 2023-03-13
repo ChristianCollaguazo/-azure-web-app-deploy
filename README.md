@@ -1,1 +1,1 @@
-# -azure-web-app-deploy
+# azure-web-app-deploy
